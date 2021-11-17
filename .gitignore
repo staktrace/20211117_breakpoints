@@ -1,0 +1,5 @@
+.gradle/
+liaison/service/build/
+liaison/service/.gradle/
+liaison/buildSrc/build/
+liaison/buildSrc/.gradle/
